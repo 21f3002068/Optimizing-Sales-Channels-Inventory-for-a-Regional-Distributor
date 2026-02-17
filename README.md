@@ -25,6 +25,13 @@ The project focused on three core operational "leaks" identified during initial 
 
 ---
 
+## Business Images
+
+![Business Owner (1)](https://github.com/user-attachments/assets/7c451846-ea7f-4a3d-bc79-545b0bfe4719)
+<img width="1920" height="879" alt="Outside View" src="https://github.com/user-attachments/assets/9cee3a83-525c-48fd-9156-77c6f240f6ff" />
+<img width="1360" height="1020" alt="Products_image1" src="https://github.com/user-attachments/assets/d94d9623-8779-4a2a-886c-342aed8cd93d" />
+
+
 ## 🛠️ Data Engineering (From Paper to Python)
 **Unique Challenge:** The business had no formal database. Data existed only as physical invoices, logbooks, and "Estimate Memos."
 
@@ -95,4 +102,3 @@ This project was conducted as part of the IIT Madras BS Degree Capstone. All pri
 ## 📬 Contact
 - Vaibhav Satish
 - 📧 21f3002068@ds.study.iitm.ac.in
-
