@@ -77,6 +77,8 @@ I employed a multi-suite analytical approach to diagnose risks and propose solut
 ├── visualizations/           # Lorenz Curves, Sankey Diagrams, KDE Plots
 │
 └── README.md
+```
+
 
 --------------------------------------------------------------------------------
 📊 Key Insights & Impact
@@ -107,4 +109,4 @@ This project was conducted as part of the IIT Madras BS Degree Capstone. All pri
 📬 Contact
 Vaibhav Satish
 📧 21f3002068@ds.study.iitm.ac.in
-🔗 LinkedIn Profile
+
