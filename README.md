@@ -57,10 +57,7 @@ I employed a multi-suite analytical approach to diagnose risks and propose solut
 ## 📂 Repository Structure
 
 ```text
-├── data/
-│   ├── raw/                  # Scanned text / raw extracts
-│   ├── processed/            # Cleaned Excel sheets (Sales, Purchase, Inventory)
-│   └── derived/              # Calculated metrics (Contractor Performance A-List)
+├── data (NDA)/
 │
 ├── scripts/                  # Python Analysis Notebooks
 │   ├── Data_Extraction.py    # Custom script for parsing invoice text
@@ -74,14 +71,14 @@ I employed a multi-suite analytical approach to diagnose risks and propose solut
 │   ├── Mid_Term_Report.pdf   # Data exploration and metadata
 │   └── Presentation.pptx     # Viva Voce Slide Deck
 │
-├── visualizations/           # Lorenz Curves, Sankey Diagrams, KDE Plots
+├── visualizations/          
 │
 └── README.md
 ```
 
 
 --------------------------------------------------------------------------------
-📊 Key Insights & Impact
+## Key Insights & Impact
 <img width="1100" height="468" alt="image" src="https://github.com/user-attachments/assets/4e889d2d-e87f-4038-bbad-e3f3a2c4e381" />
 
 --------------------------------------------------------------------------------
