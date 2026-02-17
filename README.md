@@ -84,21 +84,18 @@ I employed a multi-suite analytical approach to diagnose risks and propose solut
 📊 Key Insights & Impact
 <img width="1100" height="468" alt="image" src="https://github.com/user-attachments/assets/4e889d2d-e87f-4038-bbad-e3f3a2c4e381" />
 
+--------------------------------------------------------------------------------
+## 🚀 Tech Stack
+- Language: Python 3.x
+- Libraries: Pandas, NumPy, SciPy (Stats), Matplotlib/Seaborn (Visualization).
+- Tools: Microsoft Excel (Advanced Modeling), Power BI (Dashboarding concepts).
 
 --------------------------------------------------------------------------------
-🚀 Tech Stack
-• Language: Python 3.x
-• Libraries: Pandas, NumPy, SciPy (Stats), Matplotlib/Seaborn (Visualization).
-• Tools: Microsoft Excel (Advanced Modeling), Power BI (Dashboarding concepts).
-
---------------------------------------------------------------------------------
-📜 Declaration
+## 📜 Declaration
 This project was conducted as part of the IIT Madras BS Degree Capstone. All primary data was collected with the consent of S.K. Timber. Some sensitive personal identifiable information (PII) has been anonymized in the public repository.
 
 --------------------------------------------------------------------------------
-📬 Contact
-
-Vaibhav Satish
-
-📧 21f3002068@ds.study.iitm.ac.in
+## 📬 Contact
+- Vaibhav Satish
+- 📧 21f3002068@ds.study.iitm.ac.in
 
