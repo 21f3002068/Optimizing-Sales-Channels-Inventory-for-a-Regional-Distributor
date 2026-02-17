@@ -82,18 +82,8 @@ I employed a multi-suite analytical approach to diagnose risks and propose solut
 
 --------------------------------------------------------------------------------
 📊 Key Insights & Impact
-Metric
-Findings
-Impact of Recommendation
-Contractor Risk
-Top 20 contractors drive ~60% of A-List revenue.
-Formalize SLAs & Monthly Reviews to mitigate churn risk (RPN 315).
-Credit Exposure
-35% of unregistered UPI sales are actually credit.
-Digital Ledger & "Soft Lock" rules to recover ₹16-18L liquidity.
-Inventory Waste
-148% Excess Stock in Sept due to poor planning.
-Seasonal EOQ adoption to save ₹2.6L in ordering costs annually.
+<img width="1100" height="468" alt="image" src="https://github.com/user-attachments/assets/4e889d2d-e87f-4038-bbad-e3f3a2c4e381" />
+
 
 --------------------------------------------------------------------------------
 🚀 Tech Stack
@@ -107,6 +97,8 @@ This project was conducted as part of the IIT Madras BS Degree Capstone. All pri
 
 --------------------------------------------------------------------------------
 📬 Contact
+
 Vaibhav Satish
+
 📧 21f3002068@ds.study.iitm.ac.in
 
